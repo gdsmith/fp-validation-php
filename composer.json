@@ -17,7 +17,8 @@
     "autoload": {
         "psr-4": {
             "Domain\\" : "src/Domain/",
-            "Validation\\" : "src/Validation/"
+            "Validation\\" : "src/Validation/",
+            "OOValidation\\": "src/OOValidation/"
         },
         "files": [
             "src/Validation/core.php"
